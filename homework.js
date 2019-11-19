@@ -11,7 +11,7 @@ const makeRainbow = () => {
       .ansi("2", "rainbow\n")
       .ansi("6", "rainbow\n")
       .ansi("4", "rainbow\n")
-      .ansi("17", "rainbow\n")
+      .ansi("18", "rainbow\n")
       .txt("\n")
       .colorfy()
   );
